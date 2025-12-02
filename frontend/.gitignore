@@ -22,3 +22,8 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+git remote add origin https://github.com/Lalit-Mahajan/Login-App.git
+git branch -M main
+git push -u origin main
